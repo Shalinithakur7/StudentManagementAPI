@@ -40,3 +40,7 @@ Delete student by ID.
 Returns 204 No Content if deleted
 
 Returns 404 Not Found if ID doesn’t exist
+
+
+<img width="1641" height="856" alt="image" src="https://github.com/user-attachments/assets/147d5c9e-872f-49fc-8504-9c53d161571f" />
+
