@@ -1,6 +1,5 @@
 # Student Management API (ASP.NET Core + CQRS + MediatR)
-
-an ASP.NET Core API for a Student Management System using CQRS and the Mediator pattern.
+An ASP.NET Core API for a Student Management System using CQRS and the Mediator pattern. The system support adding, updating, deleting, and retrieving all students, with all data stored in memory.
 
 ---
 
